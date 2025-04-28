@@ -8,11 +8,10 @@
 
 ---
 
-## 🚀 Funcionalidades  
-- **Adicionar tarefas** ao arquivo `todo.txt`.  
-- **Visualizar tarefas** salvas.  
-- **Limpar a lista** completamente.  
-- **Menu interativo** com tratamento de erros básico.  
+## 🚀 Funcionalidades
+📝 Visualizar tarefas: Mostra todas as tarefas cadastradas com numeração.
+🗑️ Limpar lista: Remove todas as tarefas existentes.
+➕ Adicionar tarefas: Permite adicionar novas tarefas uma a uma.
 
 ---
 
@@ -26,3 +25,8 @@
 1. **Compile o código**:  
    ```bash
    gcc todo_list.c -o todo
+
+2. **Execute**
+
+``` ./todo       # Linux/Mac ```
+``` todo.exe     # Windows ```
