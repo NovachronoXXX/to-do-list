@@ -1,6 +1,6 @@
 # 📝 To-Do List em C  
 
-🔹 Um programa simples de **lista de tarefas** em C, que permite adicionar, visualizar e limpar tarefas salvas em um arquivo `todo.txt`.  
+🔹 Este é um projeto simples de uma lista de tarefas (To-Do List) desenvolvido em linguagem C. O programa permite ao usuário gerenciar suas tarefas diárias através de um menu interativo no terminal.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE3a2tyNGpjeXFrcnpwOHNtYTlld3lyc2d6d2ZxMDV0enA0bnBsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjDIwuXYPzrAEjb6HP/giphy.gif" alt="To-Do List Demo" width="300">
@@ -41,3 +41,23 @@ to-do-list/
 │── to-do-list.c     # Código fonte principal
 │── filename.txt     # Arquivo de tarefas (criado automaticamente)
 └── README.md        # Este arquivo
+```
+
+---
+
+## 💻 Estrutura do código
+
+O programa está organizado em várias funções:
+
+- `menu_principal():` Exibe o menu e gerencia a navegação
+- `mostrar_tarefas():` Lista todas as tarefas do arquivo
+- `limpar_lista():` Apaga todas as tarefas
+- `add_tarefa():` Adiciona novas tarefas
+- `limpar_tela():` Limpa o terminal
+- `limpar_buffer():` Limpa o buffer de entrada
+
+---
+
+<p align="center"> ⭐️ **Deixe uma estrela** se este projeto te ajudou! ⭐️ </p>
+
+---
