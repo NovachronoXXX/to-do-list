@@ -38,6 +38,6 @@ todo.exe     # Windows
 ## 📂 Estrutura do Projeto
 ```bash
 to-do-list/
-│── todo_list.c     # Código fonte principal
-│── todo.txt        # Arquivo de tarefas (criado automaticamente)
-└── README.md       # Este arquivo
+│── to-do-list.c     # Código fonte principal
+│── filename.txt     # Arquivo de tarefas (criado automaticamente)
+└── README.md        # Este arquivo
