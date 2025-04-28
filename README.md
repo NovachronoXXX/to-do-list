@@ -26,7 +26,18 @@
    ```bash
    gcc to-do-list.c -o to-do-list
 
+
 2. **Execute**
 ```bash
 ./todo       # Linux/Mac 
 todo.exe     # Windows 
+```
+
+---
+
+## 📂 Estrutura do Projeto
+```bash
+to-do-list/
+│── todo_list.c     # Código fonte principal
+│── todo.txt        # Arquivo de tarefas (criado automaticamente)
+└── README.md       # Este arquivo
