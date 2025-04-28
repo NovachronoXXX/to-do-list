@@ -58,6 +58,6 @@ O programa está organizado em várias funções:
 
 ---
 
-<p align="center"> ⭐️ *Deixe uma estrela* se este projeto te ajudou! ⭐️ </p>
+<p align="center"> ⭐️ Deixe uma estrela se este projeto te ajudou ou se você gostou! ⭐️ </p>
 
 ---
