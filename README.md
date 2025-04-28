@@ -3,7 +3,7 @@
 🔹 Um programa simples de **lista de tarefas** em C, que permite adicionar, visualizar e limpar tarefas salvas em um arquivo `todo.txt`.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xZ3V6OGV1dWl5Z2VjZ3B1Y2RzYzN6bmZ0dGJhY2R6d2N6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDNV3FfzFEk9W/giphy.gif" alt="To-Do List Demo" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE3a2tyNGpjeXFrcnpwOHNtYTlld3lyc2d6d2ZxMDV0enA0bnBsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjDIwuXYPzrAEjb6HP/giphy.gif" alt="To-Do List Demo" width="300">
 </p>
 
 ---
