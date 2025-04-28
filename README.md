@@ -24,9 +24,9 @@
 ### Passos  
 1. **Compile o código**:  
    ```bash
-   gcc todo_list.c -o todo
+   gcc to-do-list.c -o to-do-list
 
 2. **Execute**
-
-``` ./todo       # Linux/Mac ```
-``` todo.exe     # Windows ```
+```bash
+./todo       # Linux/Mac 
+todo.exe     # Windows 
