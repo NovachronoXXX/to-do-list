@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 Funcionalidades
-📝 Visualizar tarefas: Mostra todas as tarefas cadastradas com numeração.
-🗑️ Limpar lista: Remove todas as tarefas existentes.
-➕ Adicionar tarefas: Permite adicionar novas tarefas uma a uma.
+- 📝 Visualizar tarefas: Mostra todas as tarefas cadastradas com numeração.
+- 🗑️ Limpar lista: Remove todas as tarefas existentes.
+- ➕ Adicionar tarefas: Permite adicionar novas tarefas uma a uma.
 
 ---
 
